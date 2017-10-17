@@ -1,0 +1,12 @@
+[package]
+name = "trending"
+version = "0.1.0"
+authors = ["softprops <d.tangren@gmail.com>"]
+
+[dependencies]
+error-chain = "0.10"
+futures = "0.1"
+hyper = "0.11"
+tokio-core = "0.1"
+hyper-tls = "0.1"
+select = "0.4"
